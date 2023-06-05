@@ -1,3 +1,4 @@
 node_modules/
-mochawesome-report/
+mochawesome-report/assets/
+mochawesome-report/mochawesome.json
 !mochawesome-report/mochawesome.html
