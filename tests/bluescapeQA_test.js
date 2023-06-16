@@ -1,7 +1,7 @@
 Feature('bluescapeQA');
 
-I.say('Before hooks');
 Before(({I}) => {
+    I.say('Executing Before Hooks');
     I.say('Launching browser');
     I.launchApp();
 })
